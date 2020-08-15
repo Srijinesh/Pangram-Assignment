@@ -1,5 +1,4 @@
-import string
-z = str(input('enter a character string(lowercase)'))
+z = str(input('enter a character string or sentence'))
 r = 0
 y = "abcdefghijklmnopqrstuvwxyz"
 for i in y:
